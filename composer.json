@@ -15,5 +15,6 @@
             "name": "developer name : NSH ",
             "email": "email@email.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
