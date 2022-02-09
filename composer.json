@@ -1,0 +1,19 @@
+{
+    "name": "myfatoorah/php_library",
+    "description": "MyFatoorah Library",
+    "type": "library",
+    "require": {
+        "php" : ">=7.4.0",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": { "MyFatoorah\\Library\\" : "src/" }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MyFatoorah Technical Support Team",
+            "email": "plugins@myfatoorah.com"
+        }
+    ]
+}
