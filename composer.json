@@ -1,5 +1,5 @@
 {
-    "name": "myfatoorah/php_library",
+    "name": "nsh/test",
     "description": "MyFatoorah Library",
     "type": "library",
     "require": {
@@ -7,13 +7,13 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-4": { "MyFatoorah\\Library\\" : "src/" }
+        "psr-4": { "NSH\\Library\\" : "src/" }
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "MyFatoorah Technical Support Team",
-            "email": "plugins@myfatoorah.com"
+            "name": "developer name : NSH ",
+            "email": "email@email.com"
         }
     ]
 }
