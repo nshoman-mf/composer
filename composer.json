@@ -1,5 +1,5 @@
 {
-    "name": "nsh/test",
+    "name": "mf/lib",
     "description": "MyFatoorah Library",
     "type": "library",
     "require": {
@@ -7,7 +7,7 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-4": { "NSH\\Library\\" : "src/" }
+        "psr-4": { "MF\\Lib\\" : "src/" }
     },
     "license": "MIT",
     "authors": [
