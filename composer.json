@@ -2,7 +2,6 @@
     "name": "nshoman-mf/lib",
     "description": "MyFatoorah Library",
     "type": "library",
-    "keywords":["nshoman-mf","dida","testtesttest"],
     "require": {
         "php" : ">=7.2.0",
         "ext-mbstring": "*"
