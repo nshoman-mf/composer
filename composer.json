@@ -3,8 +3,8 @@
     "description": "MyFatoorah Library",
     "type": "library",
     "require": {
-        "php" : ">=7.2.0",
-        "ext-mbstring": "*"
+        "php" : ">=7.4.0",
+        "ext-curl": ""
     },
     "autoload": {
         "psr-4": { "MF\\Lib\\" : "src/" }
